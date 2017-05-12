@@ -1,0 +1,24 @@
+{
+  "name": "StudentTW-Basic-App-1",
+  "version": "0.0.1",
+  "description": "Node JS app Hoellow World",
+  "author": "StudentTW",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "dependencies": {
+    "express": "latest"
+  },
+  "license": "Free to use"
+}
