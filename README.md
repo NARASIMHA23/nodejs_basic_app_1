@@ -7,7 +7,7 @@ Download Node JS (NPM will be included with Node js) Open this link https://node
     Click On Windows Installer(.msi)
 		32-bit for 32Bit Operating System
 		64-bit for 64Bit Operating System
-	Select the same for another Operating System.
+	Do the same for another Operating System.
 	After Download install the same.
 	
 Type this commands for successful installation
