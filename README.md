@@ -2,9 +2,8 @@
 Simple Node JS App to Start
 
 
-Download Node JS (NPM will be included with Node js)
-
-    Open this link https://nodejs.org/en/download/
+Download Node JS (NPM will be included with Node js) Open this link https://nodejs.org/en/download/
+ 
     Click On Windows Installer(.msi)
 		32-bit for 32Bit Operating System
 		64-bit for 64Bit Operating System
